@@ -42,7 +42,7 @@
 		<dc:language>LANG</dc:language>
 		<dc:source>PG_URL</dc:source>
 		<dc:source>https://archives.yale.edu/repositories/11/digital_objects/211477</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The transcription has been altered to fit the scans, with the exception of many occurrences of “its” that I’ve kept rather than changing to the scans’ incorrect “it’s”.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
