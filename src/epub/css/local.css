@@ -59,3 +59,8 @@ p span.i8{
 	padding-left: 9em;
 	text-indent: -1em;
 }
+
+#italian-pictures-sketch-of-a-man-on-a-platform span > span{
+	display: inline-block;
+	width: 7em;
+}
