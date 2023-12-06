@@ -26,6 +26,19 @@ strong{
 	display: none;
 }
 
+[epub|type~="z3998:poem"] header{
+	font-variant: small-caps;
+	margin: 1em;
+}
+
+[epub|type~="z3998:poem"] header p{
+	text-align: center;
+}
+
+[epub|type~="z3998:poem"] header + p{
+	margin-top: 0;
+}
+
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
