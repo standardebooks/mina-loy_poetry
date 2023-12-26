@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>t-014</code>
+			<reason>Dashes are a matter of poetry style.</reason>
+		</ignore>
+	</file>
+	<file path="poetry-1914-1915.xhtml">
+		<ignore>
+			<code>s-010</code>
+			<reason>Empty element used to create correct text positioning.</reason>
+		</ignore>
+		<ignore>
+			<code>s-079</code>
+			<reason>Empty element used to create correct text positioning.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

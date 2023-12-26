@@ -7,7 +7,8 @@ strong{
 	text-transform: uppercase;
 }
 
-[epub|type~="z3998:poem"] p{
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
 }
@@ -16,13 +17,15 @@ strong{
 	margin-top: 1em;
 }
 
-[epub|type~="z3998:poem"] p > span{
+[epub|type~="z3998:poem"] p > span,
+[epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
@@ -79,7 +82,7 @@ p span.i8{
 	text-indent: -1em;
 }
 
-#italian-pictures-sketch-of-a-man-on-a-platform span > span{
+#italian-pictures-parturition span > span{
 	display: inline-block;
 	width: 7em;
 }
