@@ -46,6 +46,8 @@
 			- The production is titled ”Lunar Baedeker” rather than the mistaken original “Lunar Baedecker”
 			- The transcription has been altered to fit the scans, with the exception of many occurrences of “its” that I’ve kept rather than changing to the scans’ incorrect “it’s.”
 			- The single endnote has been removed as it only talks about the contemporary ownership of a drawing.
+			- Additional spacing between words has been achieved where required using en- and em-spaces. One occurrence (in “Parturition”) required an additional element with a fixed width.
+			- The transcriber’s author was undiscoverable, so those parts were removed from the colophon.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
