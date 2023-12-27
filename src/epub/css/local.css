@@ -82,6 +82,15 @@ p span.i8{
 	text-indent: -1em;
 }
 
+p span.i9{
+	padding-left: 10em;
+	text-indent: -1em;
+}
+
+#crab-angel-song{
+	margin-bottom: 1em;
+}
+
 #italian-pictures-parturition span > span{
 	display: inline-block;
 	width: 7em;
