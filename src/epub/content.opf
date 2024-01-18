@@ -40,13 +40,39 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- There Is No Life Or Death -->
+		<dc:source>https://hdl.handle.net/2027/uva.x002129491</dc:source>
+		<!-- The Black Virginity, The Dead -->
+		<dc:source>https://archive.org/details/cu31924022030351</dc:source>
+		<!-- Human Cylinders, The Effectual Marriage, At the Door of the House -->
+		<dc:source>https://archive.org/details/othersanantholo01kreygoog</dc:source>
+		<!-- Mexican Desert -->
+		<dc:source>https://archive.org/details/sim_dial_1921-06_70</dc:source>
+		<!-- Perlun -->
+		<dc:source>https://archive.org/details/sim_dial_1921-08_71</dc:source>
+		<!-- Virgins Plus Curtains Minus Dots, One O’Clock at Night -->
+		<dc:source>https://collections.library.yale.edu/catalog/17374476</dc:source>
+		<!-- Giovanni Franchi, Babies in Hospital -->
+		<dc:source>https://collections.library.yale.edu/catalog/17390662</dc:source>
+		<!-- Lions’ Jaws -->
+		<dc:source>https://archive.org/details/littlereview07mcke</dc:source>
+		<!-- To You -->
+		<dc:source>https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1916-07_3_1</dc:source>
+		<!-- Songs to Joannes -->
+		<dc:source>https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1917-04_3_6</dc:source>
+		<!-- Gertrude Stein -->
+		<dc:source>https://digitalcommons.whitworth.edu/transatlantic/1/</dc:source>
+		<!-- Anglo-Mongrels and the Rose -->
+		<dc:source>https://hdl.handle.net/2027/uc1.32106010168349</dc:source>
+		<dc:source>https://archive.org/details/contact-collection-of-contemporary-writers/page/137/mode/1up</dc:source>
+		<!-- Lunar Baedeker (Love Songs, Café du Néant, Magasins du Louvre, Italian Pictures, Sketch of a Man on a Platform, Parturition, Lunar Baedeker, Apology of Genius, Joyce’s Ulysses, English Rose, Crab-Angel, Der Blinde Junge, Ignoramus, Poe, Brâncuși’s Golden Bird, The Starry Sky of Wyndham Lewis, O Hell) -->
 		<dc:source>https://personal.colby.edu/~isadoff/map/loy.doc</dc:source>
 		<dc:source>https://archives.yale.edu/repositories/11/digital_objects/211477</dc:source>
 		<meta property="se:production-notes">
 			- The transcription has been altered to fit the scans, with the exception of many occurrences of “its” that I’ve kept rather than changing to the scans’ incorrect “it’s.”
-			- The single endnote has been removed as it only talks about the contemporary ownership of a drawing.
+			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
 			- Additional spacing between words has been achieved where required using en- and em-spaces. One occurrence (in “Parturition”) required an additional element with a fixed width.
-			- The transcriber’s author was undiscoverable, so those parts were removed from the colophon.
+			- Lunar Baedeker’s transcriber was undiscoverable, so those parts were removed from the colophon.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
