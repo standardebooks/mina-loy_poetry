@@ -87,11 +87,25 @@ p span.i9{
 	text-indent: -1em;
 }
 
-#crab-angel-song{
-	margin-bottom: 1em;
+[epub|type~="z3998:poem"] hgroup > p{
+	text-align: inherit;
 }
 
 #parturition span > span{
 	display: inline-block;
 	width: 7em;
+}
+
+#the-effectual-marriage p:last-child{
+	text-indent: 1em;
+}
+
+#the-effectual-marriage cite{
+	display: block;
+	text-align: right;
+	margin-right: 1em;
+}
+
+#crab-angel-song{
+	margin-bottom: 1em;
 }
