@@ -107,15 +107,15 @@ p span.i12{
 
 #the-effectual-marriage cite{
 	display: block;
-	text-align: right;
 	margin-right: 1em;
+	text-align: right;
+}
+
+#crab-angel-song{
+	margin-bottom: 1em;
 }
 
 #anglo-mongrels-and-the-rose-mongrel-rose-ova-begins-to-take-notice > p:nth-child(39){
 	text-align: center;
 	width: 6em;
-}
-
-#crab-angel-song{
-	margin-bottom: 1em;
 }
