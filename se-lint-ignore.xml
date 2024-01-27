@@ -6,7 +6,13 @@
 			<reason>Dashes are a matter of poetry style.</reason>
 		</ignore>
 	</file>
-	<file path="poetry-1914-1915.xhtml">
+	<file path="content.opf">
+		<ignore>
+			<code>m-007</code>
+			<reason>Page scans link to pages in which the stories occur.</reason>
+		</ignore>
+	</file>
+	<file path="poetry.xhtml">
 		<ignore>
 			<code>s-010</code>
 			<reason>Empty element used to create correct text positioning.</reason>

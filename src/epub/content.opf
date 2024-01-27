@@ -41,33 +41,34 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- There Is No Life Or Death -->
-		<dc:source>https://hdl.handle.net/2027/uva.x002129491</dc:source>
-		<!-- The Black Virginity, The Dead -->
-		<dc:source>https://archive.org/details/cu31924022030351</dc:source>
-		<!-- Human Cylinders, The Effectual Marriage, At the Door of the House -->
-		<dc:source>https://archive.org/details/othersanantholo01kreygoog</dc:source>
-		<!-- Mexican Desert -->
-		<dc:source>https://archive.org/details/sim_dial_1921-06_70</dc:source>
-		<!-- Perlun -->
-		<dc:source>https://archive.org/details/sim_dial_1921-08_71</dc:source>
-		<!-- Virgins Plus Curtains Minus Dots, One O’Clock at Night -->
+		<dc:source>https://hdl.handle.net/2027/uva.x002129491?urlappend=%3Bseq=396</dc:source>
+		<!-- One O’Clock at Night (page 43), Virgins Plus Curtains Minus Dots (page 97) -->
 		<dc:source>https://collections.library.yale.edu/catalog/17374476</dc:source>
-		<!-- Giovanni Franchi, Babies in Hospital -->
-		<dc:source>https://collections.library.yale.edu/catalog/17390662</dc:source>
-		<!-- Lions’ Jaws -->
-		<dc:source>https://archive.org/details/littlereview07mcke</dc:source>
 		<!-- To You -->
-		<dc:source>https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1916-07_3_1</dc:source>
+		<dc:source>https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1916-07_3_1/page/27</dc:source>
+		<!-- Giovanni Franchi (page 4), Babies in Hospital (page 10) -->
+		<dc:source>https://collections.library.yale.edu/catalog/17390662</dc:source>
+		<!-- At the Door of the House (page 64), The Effectual Marriage (page 66), Human Cylinders (page 71) -->
+		<dc:source>https://archive.org/details/othersanantholo01kreygoog</dc:source>
+		<!-- The Black Virginity (page 110), The Dead (page 112) -->
+		<dc:source>https://archive.org/details/cu31924022030351</dc:source>
+		<!-- Lions’ Jaws -->
+		<dc:source>https://archive.org/details/littlereview07mcke/page/n199</dc:source>
 		<!-- Songs to Joannes -->
 		<dc:source>https://archive.org/details/sim_others-a-magazine-of-the-new-verse_1917-04_3_6</dc:source>
-		<!-- Gertrude Stein -->
-		<dc:source>https://digitalcommons.whitworth.edu/transatlantic/1/</dc:source>
-		<!-- Anglo-Mongrels and the Rose -->
+		<!-- Mexican Desert -->
+		<dc:source>https://archive.org/details/sim_dial_1921-06_70/page/672</dc:source>
+		<!-- Perlun -->
+		<dc:source>https://archive.org/details/sim_dial_1921-08_71/page/n15</dc:source>
+		<!-- Anglo-Mongrels and the Rose (pages 232, 381) -->
 		<dc:source>https://hdl.handle.net/2027/uc1.32106010168349</dc:source>
-		<dc:source>https://archive.org/details/contact-collection-of-contemporary-writers/page/137/mode/1up</dc:source>
-		<!-- Lunar Baedeker (Love Songs, Café du Néant, Magasins du Louvre, Italian Pictures, Sketch of a Man on a Platform, Parturition, Lunar Baedeker, Apology of Genius, Joyce’s Ulysses, English Rose, Crab-Angel, Der Blinde Junge, Ignoramus, Poe, Brâncuși’s Golden Bird, The Starry Sky of Wyndham Lewis, O Hell) -->
+		<dc:source>https://archive.org/details/contact-collection-of-contemporary-writers/page/137</dc:source>
+		<!-- Lunar Baedeker (Love Songs, Café du Néant, Magasins du Louvre, Italian Pictures, Sketch of a Man on a Platform, Parturition, Lunar Baedeker, Apology of Genius, Joyce’s Ulysses, Crab-Angel, Der Blinde Junge, Ignoramus, Poe, Brâncuși’s Golden Bird, The Starry Sky of Wyndham Lewis, O Hell) -->
 		<dc:source>https://personal.colby.edu/~isadoff/map/loy.doc</dc:source>
 		<dc:source>https://archives.yale.edu/repositories/11/digital_objects/211477</dc:source>
+		<!-- Gertrude Stein (page 159) -->
+		<dc:source>https://digitalcommons.whitworth.edu/transatlantic/1/</dc:source>
+		<!-- Upcoming for this collection: The Widow’s Jazz, and Lady Laura in Bohemia, both published 1931 -->
 		<meta property="se:production-notes">
 			- The transcription has been altered to fit the scans, with the exception of many occurrences of “its” that I’ve kept rather than changing to the scans’ incorrect “it’s.”
 			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
@@ -96,6 +97,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
