@@ -87,6 +87,11 @@ p span.i9{
 	text-indent: -1em;
 }
 
+p span.i12{
+	padding-left: 13em;
+	text-indent: -1em;
+}
+
 [epub|type~="z3998:poem"] hgroup > p{
 	text-align: inherit;
 }
@@ -104,6 +109,11 @@ p span.i9{
 	display: block;
 	text-align: right;
 	margin-right: 1em;
+}
+
+#anglo-mongrels-and-the-rose-mongrel-rose-ova-begins-to-take-notice > p:nth-child(39){
+	text-align: center;
+	width: 6em;
 }
 
 #crab-angel-song{
