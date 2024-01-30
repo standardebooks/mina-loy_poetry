@@ -21,5 +21,13 @@
 			<code>s-079</code>
 			<reason>Empty element used to create correct text positioning.</reason>
 		</ignore>
+		<ignore>
+			<code>t-065</code>
+			<reason>Periods are correct as per scans.</reason>
+		</ignore>
+		<ignore>
+			<code>y-026</code>
+			<reason>Em-space before starts a new phrase without punctuation.</reason>
+		</ignore>
 	</file>
 </se-lint-ignore>

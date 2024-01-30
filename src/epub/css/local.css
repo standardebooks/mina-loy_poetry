@@ -7,6 +7,11 @@ strong{
 	text-transform: uppercase;
 }
 
+article,
+section{
+	break-after: page;
+}
+
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
@@ -93,7 +98,7 @@ p span.i12{
 }
 
 [epub|type~="z3998:poem"] hgroup > p{
-	text-align: inherit;
+	text-align: center;
 }
 
 #parturition span > span{
@@ -101,7 +106,7 @@ p span.i12{
 	width: 7em;
 }
 
-#the-effectual-marriage p:last-child{
+#the-effectual-marriage > p:last-child{
 	text-indent: 1em;
 }
 
