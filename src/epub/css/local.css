@@ -101,9 +101,14 @@ p span.i12{
 	text-align: center;
 }
 
-#parturition span > span{
-	display: inline-block;
-	width: 7em;
+/* caesurae */
+span > span + span{
+	margin-left: 1.5em;
+}
+
+#parturition > p:nth-child(3) > span:nth-child(17) > span + span,
+#parturition > p:nth-child(6) > span:nth-child(19) > span + span{
+	margin-left: 7em;
 }
 
 #the-effectual-marriage > p:last-child{
