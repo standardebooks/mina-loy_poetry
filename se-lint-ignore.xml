@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="*.xhtml">
-		<ignore>
-			<code>t-014</code>
-			<reason>Dashes are a matter of poetry style.</reason>
-		</ignore>
-	</file>
 	<file path="content.opf">
+		<ignore>
+			<code>m-005</code>
+			<reason>Page scans link to pages in which the stories occur.</reason>
+		</ignore>
 		<ignore>
 			<code>m-007</code>
 			<reason>Page scans link to pages in which the stories occur.</reason>
@@ -14,20 +12,16 @@
 	</file>
 	<file path="poetry.xhtml">
 		<ignore>
-			<code>s-010</code>
-			<reason>Empty element used to create correct text positioning.</reason>
+			<code>s-091</code>
+			<reason>Needed for caesuras.</reason>
 		</ignore>
 		<ignore>
-			<code>s-079</code>
-			<reason>Empty element used to create correct text positioning.</reason>
+			<code>t-014</code>
+			<reason>Dashes are a matter of poetry style.</reason>
 		</ignore>
 		<ignore>
 			<code>t-065</code>
 			<reason>Periods are correct as per scans.</reason>
-		</ignore>
-		<ignore>
-			<code>y-026</code>
-			<reason>Em-space before starts a new phrase without punctuation.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
