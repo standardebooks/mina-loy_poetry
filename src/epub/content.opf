@@ -70,9 +70,8 @@
 		<dc:source>https://digitalcommons.whitworth.edu/transatlantic/1/</dc:source>
 		<!-- Upcoming for this collection: The Widow’s Jazz, and Lady Laura in Bohemia, both published 1931 -->
 		<meta property="se:production-notes">
-			- The transcription has been altered to fit the scans, with the exception of many occurrences of “its” that I’ve kept rather than changing to the scans’ incorrect “it’s.”
+			- Typographic choices have been made to preserve formatting as per the scans, and it is not expected that future runs of `se typogrify` will produce correct results.
 			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
-			- Additional spacing between words has been achieved where required using en- and em-spaces. One occurrence (in “Parturition”) required an additional element with a fixed width.
 			- Lunar Baedeker’s transcriber was undiscoverable, so those parts were removed from the colophon.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
