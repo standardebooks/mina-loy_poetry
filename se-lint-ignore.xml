@@ -16,12 +16,12 @@
 			<reason>Needed for caesuras.</reason>
 		</ignore>
 		<ignore>
-			<code>t-014</code>
-			<reason>Dashes are a matter of poetry style.</reason>
-		</ignore>
-		<ignore>
 			<code>t-065</code>
 			<reason>Periods are correct as per scans.</reason>
+		</ignore>
+		<ignore>
+			<code>y-033</code>
+			<reason>Stylistic choice rather than elision.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
