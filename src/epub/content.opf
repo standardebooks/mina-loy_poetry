@@ -68,7 +68,9 @@
 		<dc:source>https://archives.yale.edu/repositories/11/digital_objects/211477</dc:source>
 		<!-- Gertrude Stein (page 159) -->
 		<dc:source>https://digitalcommons.whitworth.edu/transatlantic/1/</dc:source>
-		<!-- Upcoming for this collection: The Widow’s Jazz, and Lady Laura in Bohemia, both published 1931 -->
+		<!-- Upcoming for this collection - 1931 -->
+		<!-- The Widow’s Jazz, Lady Laura in Bohemia -->
+		<!--<dc:source>https://hdl.handle.net/2027/mdp.39015056068755</dc:source>-->
 		<meta property="se:production-notes">
 			- Typographic choices have been made to preserve formatting as per the scans, and it is not expected that future runs of `se typogrify` will produce correct results.
 			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
