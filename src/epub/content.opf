@@ -35,9 +35,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85086446</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of poems by Mina Loy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mina-loy"&gt;Mina Loy&lt;/a&gt; tried her hand at many things: painting, prose, manifestos and even a spell as a lamp-maker. She was, however, unquestionably most successful with poetry. Long under-appreciated (likely because of her unabashed writing on sexuality and feminism) she has in the last few decades gained critical acclaim as a key voice of the modernist movement.&lt;/p&gt;
+			&lt;p&gt;Loy’s somewhat chaotic life and relationships brought her into contact with many of the great artists and writers of the times. She spent time with &lt;a href="https://standardebooks.org/ebooks/gertrude-stein"&gt;Gertrude Stein&lt;/a&gt; and the Italian Futurists in Florence, before emigrating to New York and finding a circle centred around the magazine &lt;i&gt;Others&lt;/i&gt; including &lt;a href="https://standardebooks.org/ebooks/william-carlos-williams"&gt;William Carlos Williams&lt;/a&gt; and Marianne Moore. While she only published in book form two poetry collections and a novel in her lifetime, the natural home for her work was the magazines she contributed to.&lt;/p&gt;
+			&lt;p&gt;This collection comprises all the poems by Mina Loy that are currently verified to be in the public domain, with the exception of “Love Songs” which is broadly an abridged version of “Songs to Joannes.” The poems are presented in chronological order of initial publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- There Is No Life Or Death -->
