@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mina-loy/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-29T20:07:56Z</dc:date>
+		<meta property="dcterms:modified">2024-02-29T20:07:56Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,9 +37,9 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by Mina Loy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mina-loy"&gt;Mina Loy&lt;/a&gt; tried her hand at many things: painting, prose, manifestos and even a spell as a lamp-maker. She was, however, unquestionably most successful with poetry. Long under-appreciated (likely because of her unabashed writing on sexuality and feminism) she has in the last few decades gained critical acclaim as a key voice of the modernist movement.&lt;/p&gt;
-			&lt;p&gt;Loy’s somewhat chaotic life and relationships brought her into contact with many of the great artists and writers of the times. She spent time with &lt;a href="https://standardebooks.org/ebooks/gertrude-stein"&gt;Gertrude Stein&lt;/a&gt; and the Italian Futurists in Florence, before emigrating to New York and finding a circle centred around the magazine &lt;i&gt;Others&lt;/i&gt; including &lt;a href="https://standardebooks.org/ebooks/william-carlos-williams"&gt;William Carlos Williams&lt;/a&gt; and Marianne Moore. While she only published in book form two poetry collections and a novel in her lifetime, the natural home for her work was the magazines she contributed to.&lt;/p&gt;
-			&lt;p&gt;This collection comprises all the poems by Mina Loy that are currently verified to be in the public domain, with the exception of “Love Songs” which is broadly an abridged version of “Songs to Joannes.” The poems are presented in chronological order of initial publication.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mina-loy"&gt;Mina Loy&lt;/a&gt; tried her hand at many things: painting, prose, manifestos, and even lamp-making. She was, however, unquestionably most successful with poetry. Long under-appreciated (perhaps because of her unabashed writing on sexuality and feminism) she has in the last few decades gained critical acclaim as a key voice of the modernist movement.&lt;/p&gt;
+			&lt;p&gt;Loy’s somewhat chaotic life and relationships brought her into contact with many of the great artists and writers of the age. She spent time with &lt;a href="https://standardebooks.org/ebooks/gertrude-stein"&gt;Gertrude Stein&lt;/a&gt; and the Italian Futurists in Florence, before emigrating to New York and finding a circle centered around the magazine &lt;i&gt;Others&lt;/i&gt; including &lt;a href="https://standardebooks.org/ebooks/william-carlos-williams"&gt;William Carlos Williams&lt;/a&gt; and Marianne Moore. While she only published two books of poetry and a novel in her lifetime, the natural home for her work was the magazines she contributed to.&lt;/p&gt;
+			&lt;p&gt;This collection comprises all the poems by Mina Loy that are in the public domain, with the exception of “Love Songs,” which is an abridged version of “Songs to Joannes.” The poems are presented in chronological order of initial publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- There Is No Life Or Death -->
@@ -78,8 +78,8 @@
 			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
 			- Lunar Baedeker’s transcriber was undiscoverable, so those parts were removed from the colophon.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">15502</meta>
+		<meta property="se:reading-ease.flesch">-128.58</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mina-loy_poetry</meta>
 		<dc:creator id="author">Mina Loy</dc:creator>
 		<meta property="file-as" refines="#author">Loy, Mina</meta>
@@ -103,6 +103,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
