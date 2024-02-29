@@ -111,13 +111,18 @@ span > span + span{
 	margin-left: 7em;
 }
 
-#the-effectual-marriage > p:last-child{
-	text-indent: 1em;
+#the-effectual-marriage footer{
+	margin-top: 1em;
 }
 
-#the-effectual-marriage cite{
-	display: block;
-	margin-right: 1em;
+#the-effectual-marriage footer span{
+	display: inline;
+	padding-left: 0;
+	text-indent: 0;
+}
+
+#the-effectual-marriage footer p + p{
+	margin-top: 0;
 	text-align: right;
 }
 

@@ -12,10 +12,6 @@
 	</file>
 	<file path="poetry.xhtml">
 		<ignore>
-			<code>s-091</code>
-			<reason>Needed for caesuras.</reason>
-		</ignore>
-		<ignore>
 			<code>t-065</code>
 			<reason>Periods are correct as per scans.</reason>
 		</ignore>
