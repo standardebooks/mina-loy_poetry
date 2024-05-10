@@ -12,6 +12,10 @@
 	</file>
 	<file path="poetry.xhtml">
 		<ignore>
+			<code>c-010</code>
+			<reason>Footer is aligned correctly.</reason>
+		</ignore>
+		<ignore>
 			<code>t-065</code>
 			<reason>Periods are correct as per scans.</reason>
 		</ignore>
