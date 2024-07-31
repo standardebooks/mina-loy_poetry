@@ -78,7 +78,7 @@
 			- The single endnote from Lunar Baedeker has been removed as it only talks about the contemporary ownership of a drawing.
 			- Lunar Baedeker’s transcriber was undiscoverable, so those parts were removed from the colophon.
 		</meta>
-		<meta property="se:word-count">15502</meta>
+		<meta property="se:word-count">15501</meta>
 		<meta property="se:reading-ease.flesch">42.45</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mina-loy_poetry</meta>
 		<dc:creator id="author">Mina Loy</dc:creator>
