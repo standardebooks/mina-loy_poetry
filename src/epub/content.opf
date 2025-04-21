@@ -35,6 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">http://id.loc.gov/authorities/subjects/sh85086446</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by Mina Loy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mina-loy"&gt;Mina Loy&lt;/a&gt; tried her hand at many things: painting, prose, manifestos, and even lamp-making. She was, however, unquestionably most successful with poetry. Long under-appreciated (perhaps because of her unabashed writing on sexuality and feminism) she has in the last few decades gained critical acclaim as a key voice of the modernist movement.&lt;/p&gt;
