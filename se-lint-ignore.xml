@@ -5,10 +5,6 @@
 			<code>m-005</code>
 			<reason>Page scans link to pages in which the stories occur.</reason>
 		</ignore>
-		<ignore>
-			<code>m-007</code>
-			<reason>Page scans link to pages in which the stories occur.</reason>
-		</ignore>
 	</file>
 	<file path="poetry.xhtml">
 		<ignore>
