@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="content.opf">
-		<ignore>
-			<code>m-005</code>
+		<ignore code="m-005">
 			<reason>Page scans link to pages in which the stories occur.</reason>
 		</ignore>
 	</file>
 	<file path="poetry.xhtml">
-		<ignore>
-			<code>c-010</code>
+		<ignore code="c-010">
 			<reason>Footer is aligned correctly.</reason>
 		</ignore>
-		<ignore>
-			<code>t-065</code>
+		<ignore code="t-065">
 			<reason>Periods are correct as per scans.</reason>
 		</ignore>
-		<ignore>
-			<code>y-033</code>
+		<ignore code="y-033">
 			<reason>Stylistic choice rather than elision.</reason>
 		</ignore>
 	</file>
