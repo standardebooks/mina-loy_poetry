@@ -2,17 +2,22 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-005">
+			<line>48</line>
+			<line>68</line>
 			<reason>Page scans link to pages in which the stories occur.</reason>
 		</ignore>
 	</file>
 	<file path="poetry.xhtml">
 		<ignore code="c-010">
+			<line>2583</line>
 			<reason>Footer is aligned correctly.</reason>
 		</ignore>
 		<ignore code="t-065">
+			<line>8766</line>
 			<reason>Periods are correct as per scans.</reason>
 		</ignore>
 		<ignore code="y-033">
+			<line>1676</line>
 			<reason>Stylistic choice rather than elision.</reason>
 		</ignore>
 	</file>
