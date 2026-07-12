@@ -2,8 +2,8 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-005">
-			<line>48</line>
-			<line>68</line>
+			<line>49</line>
+			<line>69</line>
 			<reason>Page scans link to pages in which the stories occur.</reason>
 		</ignore>
 	</file>
