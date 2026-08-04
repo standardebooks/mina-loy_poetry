@@ -38,7 +38,7 @@
 		<meta property="term" refines="#subject-2">sh85086446</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of poems by Mina Loy.</dc:abstract>
+		<meta property="schema:abstract">A collection of poems by Mina Loy.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/mina-loy"&gt;Mina Loy&lt;/a&gt; tried her hand at many things: painting, prose, manifestos, and even lamp-making. She was, however, unquestionably most successful with poetry. Long under-appreciated (perhaps because of her unabashed writing on sexuality and feminism) she has in the last few decades gained critical acclaim as a key voice of the modernist movement.&lt;/p&gt;
 			&lt;p&gt;Loy’s somewhat chaotic life and relationships brought her into contact with many of the great artists and writers of the age. She spent time with &lt;a href="https://standardebooks.org/ebooks/gertrude-stein"&gt;Gertrude Stein&lt;/a&gt; and the Italian Futurists in Florence, before emigrating to New York and finding a circle centered around the magazine &lt;i&gt;Others&lt;/i&gt; including &lt;a href="https://standardebooks.org/ebooks/william-carlos-williams"&gt;William Carlos Williams&lt;/a&gt; and Marianne Moore. While she only published two books of poetry and a novel in her lifetime, the natural home for her work was the magazines she contributed to.&lt;/p&gt;
